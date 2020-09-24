@@ -1,0 +1,17 @@
+.laban {
+    font-family: 'Aclonica';
+    font-size: 20px;
+    background-color: red;
+}
+
+.kumbati {
+    width: 50%;
+    margin-top: 200px;
+    font-family: 'Aclonica';
+    text-align: center;
+    border-color: blue;
+}
+
+.head {
+    font-family: 'Aclonica';
+}
